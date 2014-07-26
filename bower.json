@@ -1,0 +1,7 @@
+{
+  "name": "bc-d3-areachart#gh-pages",
+  "private": true,
+  "dependencies": {
+    "bc-d3-areachart": "bilgecode/bc-d3-areachart#master"
+  }
+}

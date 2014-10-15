@@ -303,9 +303,11 @@ Element draws an svg area chart using d3.js
       updateGraph: function() {
         this.log("Updating Graph.");
 
-        this.updateScales();
-        this.updateArea();
-        this.updateAxes();
+        if(this.data != null && this.domain != null) {
+          this.updateScales();
+          this.updateArea();
+          this.updateAxes();
+        }
       }
 
     });

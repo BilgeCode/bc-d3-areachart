@@ -2,7 +2,7 @@
   "name": "bc-d3-areachart",
   "description": "Element draws an svg singraph using d3.js",
   "version": "0.4.1",
-  "keywords": "d3, area, chart, polymer, web-components",
+  "keywords": ["d3", "area", "chart", "polymer", "web-components"],
   "authors": [
     "Benjamin W Stookey"
   ],
